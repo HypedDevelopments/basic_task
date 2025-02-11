@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# macOS files
+.DS_Store
+
+# IDE settings (for VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore generated reports
+file_report.txt
+daily_reminder.txt
