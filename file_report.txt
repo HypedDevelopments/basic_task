@@ -1,0 +1,9 @@
+File Report for . - 2025-02-10
+
+./LICENSE
+./.gitignore
+./file_report.txt
+./PY/main.py
+./TXT/daily_reminder.txt
+./TXT/file_report.txt
+./MD/README.MD
